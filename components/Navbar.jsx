@@ -1,5 +1,6 @@
 import styles from "../styles/Navbar.module.css"
 import Image from "next/image";
+import React from "react";
 
 const Navbar = () => {
     return (

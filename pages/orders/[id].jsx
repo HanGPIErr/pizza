@@ -1,5 +1,6 @@
 import styles from "../../styles/Order.module.css";
 import Image from "next/image";
+import React from "react";
 
 const Order = () => {
     const status = 0;
